@@ -1,0 +1,54 @@
+#features,
+.download:hover,
+.briefcase,
+.skill-bar,
+#filter li a.active,
+#contact input[type="submit"]:hover,
+#comment-form input[type="submit"]:hover,
+#cd-zoom-in, 
+#cd-zoom-out,
+#cd-baidu-map address,
+.spinner,
+.snap,
+.project-item .detail,
+.blog-item .detail,
+.btn:hover {
+	background: #0099d5;
+}
+
+.title,
+.social li a,
+.list .icon,
+.interact a, 
+.job-title span {
+	color: #0099d5;
+}
+
+
+.download:hover,
+#contact input[type="text"]:focus,
+#contact input[type="email"]:focus,
+#contact textarea:focus,
+#subscribe input[type="email"]:focus,
+#comment-form input[type="text"]:focus,
+#comment-form textarea:focus {
+	border-color: #0099d5;
+}
+
+.words:before {
+	border-bottom: 12px solid #0099d5;
+}
+
+#subscribe input[type="submit"],
+.words,
+.sending {
+	background-color: #0099d5 !important;
+}
+
+.path {
+	stroke: #0099d5 !important;
+}
+
+.snap {
+	border-left: 4px solid #0099d5;
+}
